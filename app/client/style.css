@@ -1,0 +1,78 @@
+body {
+  background-color: #FDFDFD;
+}
+
+.ui.menu.topMenu {
+  border: none;
+  box-shadow: none;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bold;
+  background-color: #3171B8 !important;
+  color: white !important;
+  margin-bottom: 0px;
+}
+
+.ui.menu.topMenu .item{
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: bold;
+  color: white !important;
+}
+
+.ui.menu.middleMenu {
+  border: none;
+  box-shadow: none;
+  margin: 0px;
+  font-size: 12px;
+}
+
+.footerMenu {
+  background-color: #DBF4FC !important;
+  margin-top: 10px;
+  padding-bottom: 45px;
+  padding-top: 10px;
+}
+
+.ui.list .list>.item, .ui.list>.item, ol.ui.list li, ul.ui.list li {
+  padding: 10px !important;
+}
+
+.ui.myMelody.container {
+  background-color: #EAF7FF !important;
+  padding: 10px;
+}
+
+.shipping, .vanity, .japangeles {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.staffPicks {
+  margin-bottom: 30px;
+}
+
+.braceletAd {
+  margin-top: 10px;
+}
+
+.limitedEdition {
+  margin-top: 10px;
+}
+
+.spotlightPochacco {
+  background-color: #DBF4FC !important;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  padding: 10px;
+}
+
+.bottomBackground {
+  background-color: #3171B8 !important;
+  background: url("https://www.staging.sanrio.weblinc.com/media/W1siZiIsIjIwMTkvMDEvMTgvMTYvNTkvMzYvNzk4L2Zvb3Rlcl9hbGwucG5nIl1d/footer-all.png?sha=1e2dfef90a3adcd0") no-repeat center bottom;
+  background-size: 100%;
+  color: white;
+  height: 400px;
+}
+
+.bottomContainer {
+  padding-left: 30px;
+}
